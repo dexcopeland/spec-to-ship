@@ -1,0 +1,5 @@
+{
+  "_instructions": "Append-style queue for failed Linear MCP updates. Written by the Ralph agent when a Linear call fails. Flushed at the start of each iteration and after the loop completes. Run /linear-retry in Claude Code to flush manually.",
+  "lastUpdated": null,
+  "pendingUpdates": []
+}

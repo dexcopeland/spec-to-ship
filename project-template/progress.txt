@@ -1,0 +1,8 @@
+# Ralph Progress Log
+# Append-only — never delete entries
+# Format: [YYYY-MM-DD HH:MM] Story [id] complete: [title]
+#
+# This file is the agent's memory across iterations.
+# It accumulates learnings, gotchas, and patterns discovered during the build.
+# ════════════════════════════════════════════════════════════════════════════
+
